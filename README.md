@@ -1,5 +1,5 @@
 
-# Discord Ultimate Embed Sender
+# Discord Ultimate Embed Sender (DUES)
 
 
 
